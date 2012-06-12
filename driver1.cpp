@@ -1,5 +1,5 @@
 // *********************** convert.cpp ****************************//
-// Author : Uday Raj Subedi, Nitesh Verma, Kam Killsfirst, Ryan Bao 
+// Author : Uday Raj Subedi
 // Progream to convert infix to postfix. Infix expression can
 // be a string of any type. Postfix is generated as a string expression
 // ********************************************************************//
